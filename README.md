@@ -41,6 +41,8 @@ Data transformation and preprocessing
 Explanatory data analysis(EDA)
 Validation of data for integrity before performing descriptive analysis
 
+___
+
 
 ![Alt text](https://github.com/ClauseJr/Amazon-Products-Analysis/blob/main/Distribution%20Analysis%20Visuals.png)
 
