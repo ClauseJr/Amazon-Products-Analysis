@@ -19,8 +19,28 @@ Comparison of attrition rates across different employee groups to uncover dispar
 
 Data Sources
 A synthetically generated employee attrition dataset designed for data analytics and visualization practice, comprising of over 60,000 records. It models key workforce attributes such as demographics, job satisfaction, leadership, work-life balance, innovation, and overtime to support analysis of attrition patterns and underlying drivers of employee turnover.
-
 ___
+
+## Tools Used
+a. Excel
+
+Excel was used as the initial data preparation tool to:
+
+Clean and standardize column formats (texts, numerical fields)
+Handle missing, duplicates and inconsistent values
+Validate data integrity before visualization
+This step was used for light-weight data preparations before ingestion into notebook for heavy analysis
+
+b. Python(Jupyter Notebook)
+
+The data was loaded into jupyter notebook, to help in:
+
+Dataset cleaning and standardizing columns formarts i.e gender
+Handling inconsistency, duplicates and missing data sections
+Data transformation and preprocessing
+Explanatory data analysis(EDA)
+Validation of data for integrity before performing descriptive analysis
+
 
 ![Alt text](https://github.com/ClauseJr/Amazon-Products-Analysis/blob/main/Distribution%20Analysis%20Visuals.png)
 
